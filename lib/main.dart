@@ -50,4 +50,13 @@ class _MyAppState extends State<MyApp> {
 
 
 
+/*
+HOSTING WEBSITE
+flutter login
+flutter build web
+firebase init hosting
+Add script file to index.html file inside of build/web
+firebase deploy
+firebase hosting:channel:deploy "CHANNEL_ID"
+*/
 
