@@ -47,4 +47,4 @@ Develop skills in handling asynchronous tasks, managing states, and working with
 The Chatting App project served as an excellent learning opportunity, providing hands-on experience in mobile app development using Flutter and integrating Firebase for real-time database operations. While facing challenges in implementing real-time chat and database operations, the project allowed for gaining practical insights and skills necessary for creating functional, real-world applications.
 
 The combination of Flutter and Firebase proved to be a powerful and efficient choice for developing a feature-rich, cross-platform chatting application, empowering users with a seamless and personalized messaging experience.
-# App [Link](https://photos-app-e6687--chatting-with-anuj-lw5lscju.web.app)
+# App [Link](https://photos-app-e6687.web.app/)
